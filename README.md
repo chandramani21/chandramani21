@@ -1,10 +1,10 @@
-- 👋 Hi 1'm chandramani 21
+- 👋 Hi i'm chandramani21
 <!---
 chandramani21/chandramani21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# chandramani_kumari
-<h1 align="center">Hi 👋, I'm Chandramani_kumari</h1>
+
+<h1 align="center">Hi 👋, I'm Chandramani21</h1>
 <h3 align="center">I am Front-end and back-end developer</h3>
 
 - 👯 I’m looking to collaborate on **Train Reservation Ticket booking system**
